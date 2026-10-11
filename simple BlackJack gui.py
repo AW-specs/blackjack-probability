@@ -1,19 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Blackjack (Tkinter GUI edition)
----------------------------------
-A desktop graphical version of the console blackjack game, built with
-Tkinter (Python's built-in GUI toolkit -- no extra installs needed).
-
-HOW TO RUN IN VS CODE
-1. Open this file in VS Code and make sure a Python interpreter is
-   selected (bottom-right corner).
-2. Click the "Run" triangle in the top-right, or right-click in the
-   editor and choose "Run Python File in Terminal".
-3. A window will pop up -- no typing in the terminal is needed, this
-   version is fully mouse/click driven.
-"""
-
 import random
 import tkinter as tk
 from tkinter import messagebox
